@@ -1,4 +1,4 @@
-# Develop REST API with Lumen and JWT authentication
+# REST API with Lumen and JWT authentication
 
 # Installation
 
