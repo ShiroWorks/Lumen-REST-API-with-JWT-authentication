@@ -11,7 +11,7 @@ git clone https://github.com/ShiroWorks/Lumen-REST-API-with-JWT-authentication.g
 2. Install composer packages
 
 ```
-cd lumen-rest-api-jwt-auth
+cd Lumen-REST-API-with-JWT-authentication
 $ composer install
 ```
 
